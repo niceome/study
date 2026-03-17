@@ -1,7 +1,10 @@
-import java.io.*;
-import java.util.*;
+package giyoung;
 
-public class Main {
+import java.io.*;
+import java.util.StringTokenizer;
+
+public class g_2003 {
+
     public static void main(String[] args) throws Exception {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
