@@ -33,13 +33,8 @@ public class g_2636 {
                 if(arr[i] < maxPrice) {
                     sum += maxPrice - arr[i];
                 }
-
             }
-
             System.out.println(sum);
-
         }
-
-
     }
 }
